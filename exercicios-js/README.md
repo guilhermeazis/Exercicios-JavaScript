@@ -1,2 +1,2 @@
 # exercicios-js
-feito para praticar os exercícios em java do curso
+Esse espaço tem como o objetivo fazer os exercícios do curso de js, além do conteúdo da Trybe
